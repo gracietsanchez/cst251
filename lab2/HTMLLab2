@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lab 2 - My First HTML/Topic</title>
+	<link rel="stylesheet" type="text/css" href="../css/site.css">
+	<link rel="stylesheet" type="text/css" href="css/lab.css">
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<h1> Hello World</h1>
+		<p> My partner's name is Matthew Lencioni. We are both exctied to learn more about HTML and the different compenents to building a website.<p/>
+
+	</body>
+</html>
